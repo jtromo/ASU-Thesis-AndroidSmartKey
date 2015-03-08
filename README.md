@@ -17,10 +17,10 @@ secure, active continuous authentication, and increases the usability and securi
 current methods.
 
 ## Screenshots
-<img src="/UIScreenshots/1.png" width="auto" height="400"/>
-<img src="/UIScreenshots/2.png" width="auto" height="400"/>
-<img src="/UIScreenshots/3.png" width="auto" height="400"/>
-<img src="/UIScreenshots/4.png" width="auto" height="400"/>
-<img src="/UIScreenshots/5.png" width="auto" height="400"/>
-<img src="/UIScreenshots/6.png" width="auto" height="400"/>
-<img src="/UIScreenshots/7.png" width="auto" height="400"/>
+<img src="/UIScreenshots/1.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/2.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/3.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/4.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/5.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/6.PNG" width="auto" height="400"/>
+<img src="/UIScreenshots/7.PNG" width="auto" height="400"/>
